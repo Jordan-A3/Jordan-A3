@@ -21,7 +21,7 @@ I'm a passionate Full Stack Developer with expertise in JavaScript/TypeScript, R
 - 🚀 I have a strong passion for teaching programming and sharing knowledge. If you need help or guidance, feel free to reach out! I'm here to assist you on your coding journey.
 
 **Connect with Me:**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your_linkedin_profile)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/j-reis-3484aa1a2/)
 - 📧 [Email](mailto:jordan.reisqrz@gmail.com)
 
 Let's collaborate and build amazing projects together! 🚀😊
