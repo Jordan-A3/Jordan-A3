@@ -1,10 +1,11 @@
-# Hi there! 👋 I'm Jordan Reis
+# Hello World! 👋 I'm Jordan Reis
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a passionate Full Stack Developer with expertise in JavaScript/TypeScript, ReactJS, React Native, and Python. I'm dedicated to creating robust applications that have a meaningful impact. Always exploring new technologies to enhance my skills and deliver innovative solutions.
+I'm Jordan, a passionate Full Stack Developer who thrives on building exceptional digital experiences. My expertise lies in JavaScript/TypeScript, ReactJS, React Native, and Python. Crafting robust applications that make a difference is my forte. Always on the lookout for innovative solutions, I'm committed to continuous learning and exploration of cutting-edge technologies.
 
-**Skills:**
+## 🚀 Skills
+
 - **Languages:** JavaScript/TypeScript, Python
 - **Frontend:** ReactJS, HTML5, CSS3
 - **Mobile Development:** React Native
@@ -12,16 +13,19 @@ I'm a passionate Full Stack Developer with expertise in JavaScript/TypeScript, R
 - **Databases:** SQL (MySQL, PostgreSQL), MongoDB
 - **Version Control:** Git, GitHub
 
-**Current Focus:**
-- 🛠️ Currently working on: Developing my website Portfolio
-- 🧠 Currently learning: Delving into Neural Networks
-- 🎉 Fun fact: I've had the surreal experience of appearing on the Nasdaq's big screen! 😄
+## 🌟 Current Focus
 
-**Passionate about Teaching:**
-- 🚀 I have a strong passion for teaching programming and sharing knowledge. If you need help or guidance, feel free to reach out! I'm here to assist you on your coding journey.
+- 🛠️ Working on: Crafting my dynamic and visually stunning website Portfolio
+- 🧠 Learning: Diving deep into the world of Neural Networks
+- 🎉 Fun fact: I've made an appearance on the Nasdaq's big screen! 😄
 
-**Connect with Me:**
+## 🚀 Passionate Educator
+
+- 🚀 I absolutely adore teaching programming and sharing knowledge. Need help or guidance? Feel free to reach out! Let's level up together!
+
+## 🌐 Get in Touch
+
 - 🔗 [LinkedIn](https://www.linkedin.com/in/j-reis-3484aa1a2/)
 - 📧 [Email](mailto:jordan.reisqrz@gmail.com)
 
-Let's collaborate and build amazing projects together! 🚀😊
+Let's connect and collaborate on mind-blowing projects! 🌟✨
