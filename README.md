@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there! 👋 I'm Jordan Reis
 
-<!--
-**Jordan-A3/Jordan-A3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate Full Stack Developer with expertise in JavaScript/TypeScript, ReactJS, React Native, and Python. I'm dedicated to creating robust applications that have a meaningful impact. Always exploring new technologies to enhance my skills and deliver innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills:**
+- **Languages:** JavaScript/TypeScript, Python
+- **Frontend:** ReactJS, HTML5, CSS3
+- **Mobile Development:** React Native
+- **Backend:** Node.js, Express.js
+- **Databases:** SQL (MySQL, PostgreSQL), MongoDB
+- **Version Control:** Git, GitHub
+
+**Current Focus:**
+- 🛠️ Currently working on: Developing my website Portfolio
+- 🧠 Currently learning: Delving into Neural Networks
+- 🎉 Fun fact: I've had the surreal experience of appearing on the Nasdaq's big screen! 😄
+
+**Passionate about Teaching:**
+- 🚀 I have a strong passion for teaching programming and sharing knowledge. If you need help or guidance, feel free to reach out! I'm here to assist you on your coding journey.
+
+**Connect with Me:**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your_linkedin_profile)
+- 📧 [Email](mailto:jordan.reisqrz@gmail.com)
+
+Let's collaborate and build amazing projects together! 🚀😊
